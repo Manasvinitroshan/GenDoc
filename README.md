@@ -101,4 +101,4 @@ Dependencies are listed in `requirements.txt`.
 
 MIT © Manasvinitroshan
 
-````
+
