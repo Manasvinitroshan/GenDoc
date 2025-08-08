@@ -1,4 +1,4 @@
-````markdown name=README.md
+
 # GenDoc – Medical Image AI Assistant
 
 A Streamlit app that uses Google Gemini AI to analyze medical images, lets users ask follow-up questions via chat, finds nearby specialists by ZIP code (using Google Maps), and generates a clean PDF report.
